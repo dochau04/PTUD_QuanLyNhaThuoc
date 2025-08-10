@@ -33,7 +33,8 @@ Bao gồm các chức năng chính như:
 <img width="2134" height="1471" alt="image" src="https://github.com/user-attachments/assets/42614f61-c9be-43f0-8568-885416a00961" />
 
 ## Class Diagram
-<img width="544" height="140" alt="image" src="https://github.com/user-attachments/assets/0e937007-a93d-40e4-b400-86298b61738e" />
+<img width="1169" height="781" alt="image" src="https://github.com/user-attachments/assets/8a2a0144-9ff6-4ea5-9025-99938d1b382e" />
+
 
 ## Hình ảnh
 ### Đăng nhập
